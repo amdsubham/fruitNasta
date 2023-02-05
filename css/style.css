@@ -1370,7 +1370,10 @@ button.btn1:hover i.fa.fa-paper-plane-o{
 		width: 50%;
 		float: left;
 	}
-	.c-img,.c-info {
+	.c-info {
+		float:left;
+	}
+	.c-img {
 		width: 33.33%;
 		float:left;
 	}
@@ -1482,7 +1485,7 @@ button.btn1:hover i.fa.fa-paper-plane-o{
 		color: #000;
 	}
 	.serv-w3layouts {
-		width: 50%;
+	
 		float: left;
 	}
 	.g1 h4 {
